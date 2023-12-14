@@ -15,6 +15,7 @@ def StockPicker(prices):
         max_profit = max(max_profit, price - min_price)
 
     return max_profit
+#1234
 
 # Example usage with user input:
 user_stock_prices = input("Enter the stock prices separated by spaces: ")
